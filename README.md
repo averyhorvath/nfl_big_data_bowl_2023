@@ -7,3 +7,5 @@
 <img width="785" alt="blocking_assignments" src="https://user-images.githubusercontent.com/35042084/211383236-3b138eaa-2a0e-4d32-afd9-41bdd48bf107.png">
 <img width="1140" alt="results1" src="https://user-images.githubusercontent.com/35042084/211384066-3f7afe7c-7ed8-44f8-a6e7-1bb15a9ab228.png">
 <img width="1094" alt="results2" src="https://user-images.githubusercontent.com/35042084/211384070-43b89dc7-2259-46b5-b955-7f76a3caa725.png">
+![Screen Shot 2023-01-11 at 2 46 41 PM](https://user-images.githubusercontent.com/35042084/211903375-189dd72d-c1fa-4b77-968a-6f083e0ad980.png)
+[PassRush_TensorVisual.pdf](https://github.com/averyhorvath/nfl_big_data_bowl_2023/files/10395556/PassRush_TensorVisual.pdf)
